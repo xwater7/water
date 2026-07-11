@@ -1,0 +1,22 @@
+{
+  "token": "MTUyNDMxNjgwNzA0ODIwNDMzOA.GQB0fS.kZRbEYRgZ2QwWYbwVTneaTHdWVMRXRhZcAHhuQ",
+  "log": "1522948385173147679",
+  "sahip": "1379322791228211220",
+  "giris-cikis": "1524121118129131752",
+  "desteksunucusu": "https://discord.gg/ve8x4wUV3f",
+  "bot-davet": "https://discord.com/oauth2/authorize?client_id=1524316807048204338&permissions=8&integration_type=0&scope=bot+applications.commands",
+  "bot-adi": "WATER",
+  "bot-id": "1524316807048204338",
+  "website": "https://water.turkiyeminecraft.fun",
+  "durum": "windes",
+  "prefix": "!",
+  "mesajXp": 1,
+  "sesXp": 2,
+  "levelXp": 99,
+  "panel": {
+    "port": 3000,
+    "kullaniciAdi": "xwater7",
+    "sifre": "Sifre123",
+    "gizliAnahtar": "rimuru-panel-secret-key"
+  }
+}
